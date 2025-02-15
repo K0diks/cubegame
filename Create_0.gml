@@ -1,1 +1,3 @@
-debug_show_message("hello") 
+debug_show_message("hello")
+button = 0
+ 
